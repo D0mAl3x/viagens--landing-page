@@ -16,11 +16,12 @@ Trata-se de um projeto simples. Logo, não há instruções específicas de inst
 <p align="justify">
 O projeto contém três pastas: css, img e js; contendo seus arquivos relacionados ao conteúdo de cada pasta; e um arquivo index.html. Para funcionar corretamente, tanto as pastas quanto o arquivo "index" devem estar dentro do mesmo diretório, pois as pastas são referenciadas pelo documento ".html". Abaixo uma imagem do topo da página:
 </p>
-![Topo da Landing Page](image.png)
+
+![Topo da Landing Page](../image.png)
 
 ## 📃 Licença
 
-![MIT](licence.md)
+![MIT](../licence.md)
 
 ## 🌏 Contribuições:
 
