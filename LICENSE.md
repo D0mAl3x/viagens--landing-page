@@ -1,6 +1,6 @@
 <p align="justify">
 
-    Copyright (c) <year> <copyright holders>
+    Copyright (c) <2025> <PROJETO AGENCIA DE VIAGENS - Alex Silva Pereira>
 </p>
 <p align="justify">
     Permission is hereby granted, free of charge, to any person obtaining a copy

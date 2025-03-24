@@ -21,7 +21,7 @@ O projeto contém três pastas: css, img e js; contendo seus arquivos relacionad
 
 ## 📃 Licença
 
-![MIT](./licence.md)
+![MIT](./LICENSE.md)
 
 ## 🌏 Contribuições:
 
